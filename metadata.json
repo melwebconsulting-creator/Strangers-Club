@@ -1,0 +1,6 @@
+{
+  "name": "Chika Club - Online Community",
+  "description": "An interactive, playful online community with confessions, real-time chat, games, tasks, ranks, and owner management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
